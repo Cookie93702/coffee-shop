@@ -1,0 +1,78 @@
+[18-Nov-2016 03:49:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php on line 292
+[18-Nov-2016 03:49:38 UTC] PHP Stack trace:
+[18-Nov-2016 03:49:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[18-Nov-2016 03:49:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[18-Nov-2016 03:49:38 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:329
+[18-Nov-2016 03:49:38 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:49:38 UTC] PHP   5. Child_Themify->loadThemesPage() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:49:38 UTC] PHP   6. Child_Themify->loadFile() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:215
+[18-Nov-2016 03:49:38 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:221
+[18-Nov-2016 03:49:38 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-admin/admin-footer.php:106
+[18-Nov-2016 03:49:38 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:49:38 UTC] PHP  10. Child_Themify->override_tmpl_theme_single() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:49:38 UTC] PHP  11. implode() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:292
+[18-Nov-2016 03:51:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php on line 292
+[18-Nov-2016 03:51:22 UTC] PHP Stack trace:
+[18-Nov-2016 03:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[18-Nov-2016 03:51:22 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[18-Nov-2016 03:51:22 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:329
+[18-Nov-2016 03:51:22 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:22 UTC] PHP   5. Child_Themify->loadThemesPage() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:22 UTC] PHP   6. Child_Themify->loadFile() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:215
+[18-Nov-2016 03:51:22 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:221
+[18-Nov-2016 03:51:22 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-admin/admin-footer.php:106
+[18-Nov-2016 03:51:22 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:22 UTC] PHP  10. Child_Themify->override_tmpl_theme_single() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:22 UTC] PHP  11. implode() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:292
+[18-Nov-2016 03:51:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php on line 292
+[18-Nov-2016 03:51:40 UTC] PHP Stack trace:
+[18-Nov-2016 03:51:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[18-Nov-2016 03:51:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[18-Nov-2016 03:51:40 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:329
+[18-Nov-2016 03:51:40 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:40 UTC] PHP   5. Child_Themify->loadThemesPage() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:40 UTC] PHP   6. Child_Themify->loadFile() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:215
+[18-Nov-2016 03:51:40 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:221
+[18-Nov-2016 03:51:40 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-admin/admin-footer.php:106
+[18-Nov-2016 03:51:40 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:40 UTC] PHP  10. Child_Themify->override_tmpl_theme_single() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:40 UTC] PHP  11. implode() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:292
+[18-Nov-2016 03:51:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php on line 292
+[18-Nov-2016 03:51:51 UTC] PHP Stack trace:
+[18-Nov-2016 03:51:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[18-Nov-2016 03:51:51 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[18-Nov-2016 03:51:51 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:329
+[18-Nov-2016 03:51:51 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:51 UTC] PHP   5. Child_Themify->loadThemesPage() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:51 UTC] PHP   6. Child_Themify->loadFile() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:215
+[18-Nov-2016 03:51:51 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:221
+[18-Nov-2016 03:51:51 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-admin/admin-footer.php:106
+[18-Nov-2016 03:51:51 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:51 UTC] PHP  10. Child_Themify->override_tmpl_theme_single() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[18-Nov-2016 03:51:51 UTC] PHP  11. implode() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:292
+[22-Nov-2016 03:00:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php on line 292
+[22-Nov-2016 03:00:31 UTC] PHP Stack trace:
+[22-Nov-2016 03:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[22-Nov-2016 03:00:31 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[22-Nov-2016 03:00:31 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:329
+[22-Nov-2016 03:00:31 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:31 UTC] PHP   5. Child_Themify->loadThemesPage() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:31 UTC] PHP   6. Child_Themify->loadFile() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:215
+[22-Nov-2016 03:00:31 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:221
+[22-Nov-2016 03:00:31 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-admin/admin-footer.php:106
+[22-Nov-2016 03:00:31 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:31 UTC] PHP  10. Child_Themify->override_tmpl_theme_single() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:31 UTC] PHP  11. implode() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:292
+[22-Nov-2016 03:00:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php on line 292
+[22-Nov-2016 03:00:49 UTC] PHP Stack trace:
+[22-Nov-2016 03:00:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[22-Nov-2016 03:00:49 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[22-Nov-2016 03:00:49 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:329
+[22-Nov-2016 03:00:49 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:49 UTC] PHP   5. Child_Themify->loadThemesPage() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:49 UTC] PHP   6. Child_Themify->loadFile() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:215
+[22-Nov-2016 03:00:49 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:221
+[22-Nov-2016 03:00:49 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-admin/admin-footer.php:106
+[22-Nov-2016 03:00:49 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:49 UTC] PHP  10. Child_Themify->override_tmpl_theme_single() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[22-Nov-2016 03:00:49 UTC] PHP  11. implode() /home/ubuntu/workspace/wp-content/plugins/child-themify/includes/plugin.php:292
